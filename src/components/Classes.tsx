@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 const classes = [
   { name: 'HIIT & Conditioning', tag: 'High intensity', duration: '45 min' },
   { name: 'Strength & Power', tag: 'Weights', duration: '60 min' },
+  { name: 'Swimming & Aqua', tag: 'Pool', duration: '45 min' },
   { name: 'Yoga & Mobility', tag: 'Recovery', duration: '60 min' },
   { name: 'Boxing & Combat', tag: 'Cardio', duration: '50 min' },
   { name: 'Spin & Ride', tag: 'Indoor cycling', duration: '45 min' },

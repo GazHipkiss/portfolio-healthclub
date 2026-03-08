@@ -23,7 +23,7 @@ export function Contact() {
             <p className="section__eyebrow">Get in touch</p>
             <h2 className="section__title">Visit or drop us a line</h2>
             <p className="contact__text">
-              Come for a free tour and trial session. We’re in the heart of the city, easy to reach by tube and bus.
+              Come for a free tour and trial. See the gym, pool, and cafe—we’re in the heart of the city, easy to reach by tube and bus.
             </p>
             <address className="contact__address">
               <p><strong>Pulse Health Club</strong></p>

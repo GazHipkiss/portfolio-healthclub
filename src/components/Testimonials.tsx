@@ -3,19 +3,19 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const testimonials = [
   {
-    quote: 'Pulse completely changed my relationship with the gym. The coaches actually care, and the community makes showing up easy.',
+    quote: 'Pulse completely changed my relationship with fitness. Pool in the morning, cafe after—the coaches care and the community makes showing up easy.',
     name: 'Sarah M.',
     role: 'Member since 2022',
     avatar: 'SM',
   },
   {
-    quote: 'Best facility I’ve trained at in the UK. Equipment is always clean, classes are well run, and the vibe is serious but welcoming.',
+    quote: 'Best health club I’ve been to in the UK. Pool, gym, cafe—everything’s spotless and the classes are well run. Serious but welcoming.',
     name: 'James K.',
     role: 'Strength & conditioning',
     avatar: 'JK',
   },
   {
-    quote: 'I was nervous about joining a gym again. The team made me feel at home from day one. Now I’m in five times a week.',
+    quote: 'I was nervous about joining again. The team made me feel at home from day one. Now I’m in five times a week—pool, classes, even the cafe.',
     name: 'Emma L.',
     role: 'Member since 2023',
     avatar: 'EL',

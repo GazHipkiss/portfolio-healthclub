@@ -15,7 +15,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Premium fitness in the heart of the UK
+          Your complete health club in the heart of the UK
         </motion.p>
 
         <motion.h1
@@ -35,8 +35,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.25 }}
         >
-          State-of-the-art facilities, expert coaches, and a community that pushes you further.
-          Your transformation starts here.
+          Gym, pool, cafe, and classes under one roof. Expert coaches and a community that pushes you further—your transformation starts here.
         </motion.p>
 
         <motion.div
@@ -64,8 +63,8 @@ export function Hero() {
             <span className="hero__stat-label">Class types</span>
           </div>
           <div className="hero__stat">
-            <span className="hero__stat-value">24/7</span>
-            <span className="hero__stat-label">Gym access</span>
+            <span className="hero__stat-value">Full</span>
+            <span className="hero__stat-label">facilities</span>
           </div>
           <div className="hero__stat">
             <span className="hero__stat-value">50+</span>

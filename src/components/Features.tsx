@@ -3,23 +3,33 @@ import { motion } from 'framer-motion';
 const features = [
   {
     icon: '◆',
-    title: 'World-class equipment',
-    description: 'Premium kit from leading brands. Kept in top condition so every rep counts.',
+    title: 'Swimming pool',
+    description: '25m pool for lanes, lessons, and aqua classes. Perfect for low-impact training and recovery.',
   },
   {
     icon: '◇',
+    title: 'Gym & equipment',
+    description: 'Premium kit from leading brands. Free weights, cardio, and functional zones, kept in top condition.',
+  },
+  {
+    icon: '○',
+    title: 'Cafe & lounge',
+    description: 'Refuel with healthy meals, smoothies, and coffee. Work, relax, or meet friends after your session.',
+  },
+  {
+    icon: '▸',
     title: 'Expert coaching',
     description: 'Qualified trainers and class instructors who know how to get the best from you.',
   },
   {
-    icon: '○',
+    icon: '◇',
     title: 'Inclusive community',
     description: 'From beginners to athletes, everyone belongs. Train alongside people who get it.',
   },
   {
-    icon: '▸',
+    icon: '◆',
     title: 'Flexible membership',
-    description: 'No lock-ins. Freeze when you need to. Access that fits your life.',
+    description: 'No lock-ins. Freeze when you need to. Full club access that fits your life.',
   },
 ];
 
@@ -50,7 +60,7 @@ export function Features() {
           <p className="section__eyebrow">Why Pulse</p>
           <h2 className="section__title">Built for results</h2>
           <p className="section__subtitle">
-            We’ve designed every detail around what actually helps you get stronger, fitter, and more confident.
+            From the pool to the cafe, we’ve designed every part of the club around what helps you train, recover, and feel your best.
           </p>
         </motion.div>
 
